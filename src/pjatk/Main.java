@@ -19,6 +19,8 @@ public class Main {
 
     sel1.selectGame();
 
+    System.out.println(sel1.findById("Terra Mars"));
+
 
 
     }
